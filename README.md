@@ -22,8 +22,8 @@ The <insert info here> is built using Python.
  
 ---------------------------------------------------------------------------------------
 Project Plan for Final Project
-  This Python project will <insert data here> and all work will be done by Kim Wolf. 
 ---------------------------------------------------------------------------------------
+This Python project will <insert data here> TBD and all work will be done by Kim Wolf. 
 Version 1.0 - Date 6/14/2022
 Version 1.0 is a <insert info here> with the following project requirements:
   1) Project is specifically named and uploaded in GitHub with a minimum of 5 separate commits
