@@ -1,7 +1,7 @@
 # AppleDataKW
 This repository includes select Apple Health data for Code Ketucky Python project. 
 
-While learning Python through the Code Ketucky program, I was tasked with creating a project to demonstrate my data analysis skills. I choose to export and analyze select data from my Apple Health app in hopes to discover trends. 
+While learning Python through the Code Ketucky program, I was tasked with creating a project to demonstrate my data analytical skills. I choose to export and analyze select data from my Apple Health app in hopes to discover trends. 
 
 Version 1.0 - Date 6/14/2022
 
