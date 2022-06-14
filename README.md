@@ -11,7 +11,7 @@ Hi 👋, I'm Kim Wolf - A life-long learner currently tackling Python through th
 
 🌱 I am currently learning Python.
 
-💬 Ask me about my health goals - they are every changing, but always striving to move the needle.
+💬 Ask me about my health goals - they are ever changing, but always striving to move the needle.
 
 📫 How to reach me: kim41051@yahoo.com
 
