@@ -37,6 +37,7 @@ Version 1.0 is a data analysis of health information with the following project 
      Python 3.10.2
      Anaconda with Jupyter Notebooks  
   5) Data used within this project includes one export file(in csv format) of my health data, including Apple Watch stand hours, exercise time, heart rate, stand time, step count and walking heart rate average for the last two (2) years (time period June 1, 2020 through June 1, 2022). File name: Export_ActiveEnergyBurned.csv
+
 Features include:
   1) Feature 1 - Read data in from a local csv file. 
        Data exported from Apple Health app, then saved and imported as .csv file
