@@ -37,14 +37,14 @@ Version 1.0 is a data analysis of health information with the following project 
      Python 3.10.2
      Anaconda with Jupyter Notebooks  
   5) Data used within this project includes one export file(in csv format) of my health data, including Apple Watch stand hours, exercise time, heart rate, stand time, step count and walking heart rate average for the last two (2) years (time period June 1, 2020 through June 1, 2022). File name: Export_ActiveEnergyBurned.csv
-
-  Feature 1 - Read data in from a local csv file. 
+Features include:
+  1) Feature 1 - Read data in from a local csv file. 
        Data exported from Apple Health app, then saved and imported as .csv file
           File imported using Pandas
-  Feature 2 - Manipulate and clean my data - use custom functions to round all data to whole numbers of either minutes, hours or count
-  Feature 3 - Analyze my data - Perform 5 basic calculations with Pandas (or possibly custom functions) to find min, med and max and count/minutes of active energy burned - calories, Apple watch stand hours, basal energy burned - calories, exercise time, flights of stairs - count, heart rate - count/min, resting heart rate - count/min, step count, walking heart rate avg - count/min.
-  Feature 4 - Visualize my data - Make a minimum of 2 basic plots with matplotlib to provide a visual representation of the data
-  10) Feature 5 - Interpret my data and graphical output by using markdown cells in Jupyter Notebook.
+  2) Feature 2 - Manipulate and clean my data - use custom functions to round all data to whole numbers of either minutes, hours or count
+  3) Feature 3 - Analyze my data - Perform 5 basic calculations with Pandas (or possibly custom functions) to find min, med and max and count/minutes of active energy burned - calories, Apple watch stand hours, basal energy burned - calories, exercise time, flights of stairs - count, heart rate - count/min, resting heart rate - count/min, step count, walking heart rate avg - count/min.
+  4) Feature 4 - Visualize my data - Make a minimum of 2 basic plots with matplotlib to provide a visual representation of the data
+  5) Feature 5 - Interpret my data and graphical output by using markdown cells in Jupyter Notebook.
 
 ---------------------------------------------------------------------------------------
 Contact information regarding this analysis: 
