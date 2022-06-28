@@ -44,7 +44,7 @@ Features include:
           File imported using Pandas
   2) Feature 2 - Manipulate and clean my data - use custom functions to round all data to whole numbers of either minutes, hours or count
   3) Feature 3 - Analyze my data - Perform 5 basic calculations with Pandas (or possibly custom functions) to find min, med and max and count/minutes of active energy burned - calories, Apple watch stand hours, basal energy burned - calories, exercise time, flights of stairs - count, heart rate - count/min, resting heart rate - count/min, step count, walking heart rate avg - count/min.
-  4) Feature 4 - Visualize my data - Make a minimum of 2 basic plots with matplotlib to provide a visual representation of the data
+  4) Feature 4 - Visualize my data - Make a minimum of 2 basic plots with matplotlib to provide a visual representation of the data. Time series plot of select variable and scatter plot of variable one and variable two.
   5) Feature 5 - Interpret my data and graphical output by using markdown cells in Jupyter Notebook.
 
 ---------------------------------------------------------------------------------------
