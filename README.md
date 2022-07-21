@@ -3,11 +3,11 @@ This repository includes Active Energy Burned for Kim Wolf. Data obtained from A
 
 While learning Python through the Code Kentucky program, I was tasked with creating a project to demonstrate my data analysis skills. I chose to export and analyze select data from my Apple Health app in hopes to discover trends. 
 
-Version 1.0 - Date 6/21/2022
+Version 1.0 - Date 7/21/2022
 
 Hi 👋, I'm Kim Wolf - A life-long learner currently tackling Python through the Code Kentucky program.
 
-🔭 I’m currently working on a project to analyze my health data, including Apple Watch stand hours, exercise time, heart rate, stand time, step count and walking heart rate average for the last two (2) years (time period June 1, 2020 through June 1, 2022).
+🔭 I’m currently working on a project to analyze my health data, including Apple Watch stand hours, exercise time, heart rate, stand time, step count and walking heart rate average for the last two (2) years (time period June 1, 2020 through May 31, 2022).
 
 🌱 I am currently learning Python.
 
