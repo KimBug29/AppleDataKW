@@ -18,8 +18,7 @@ Hi 👋, I'm Kim Wolf - A life-long learner currently tackling Python through th
 👨‍💻 My current project is available in Github at https://github.com/KimBug29/AppleDataKW.git.
 
 GENERAL USAGE NOTES
--INSERT INFO HERE-
- 
+To view this project, the user must first install Anaconda with Jupyter Notebooks. Also pip install numpy and pandas.
 ---------------------------------------------------------------------------------------
 Project Plan for Final Python Project due July 2022
 ---------------------------------------------------------------------------------------
